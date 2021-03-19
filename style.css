@@ -43,6 +43,9 @@ strong {
   color: hsl(160deg, 100%, 30%);
 }
 
+p {
+  line-height: 1.4;
+}
 .card {
   background: white;
   margin-top: 64px;
